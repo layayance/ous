@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+.info{
+    border: 6px solid aliceblue; 
+    position: absolute;
+    top: 45px; 
+    left: 225px; 
+    align-items: center;
+    
+}
+
+.carriere{
+    background-color: cadetblue;
+    border:1px solid blue;
+    text-align: center;
+}
+ 
+ .ous7{
+    display: inline-block;
+    position: absolute;
+    height: 225px;
+    width: 150px;
+    top: 45px; 
+    right: 150px;
+} 
+
+ /* .ous7{
+    position: absolute;
+    top: 45px;
+    right: 225px;
+    display: inline-block;
+    width: 150px;
+}  */
+ /* .ous7{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    left: 100px;
+ } */
